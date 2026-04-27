@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GreenDriveApiSeuRa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d79b7bd4e9d9410ed640cb847d0762751aafdbb5")]
 [assembly: System.Reflection.AssemblyProductAttribute("GreenDriveApiSeuRa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GreenDriveApiSeuRa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
