@@ -1,0 +1,6 @@
+@GreenDriveApiSeuRa_HostAddress = http://localhost:5198
+
+GET {{GreenDriveApiSeuRa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
